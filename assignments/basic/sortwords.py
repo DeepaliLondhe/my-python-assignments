@@ -9,6 +9,5 @@
 
 words = input("Enter a sentence to be sorted.. ").split()
 
-
 print(f"Here are the sorted words from the give list:", sorted(words))
 

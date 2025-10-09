@@ -1,5 +1,7 @@
-# Find Largest number from given numbers:
+# Find Largest number from given numbers
 
+
+#convert given number strings into number list
 noList = list(map(int,input("Enter the number list: ").split()))
 
 print(noList)
